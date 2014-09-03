@@ -49,3 +49,4 @@ print "输入英寸"
 x_in = input()
 x_cm = x_in * 2.54
 print "%f英寸等于%f厘米" %(x_in,x_cm)
+#L2
